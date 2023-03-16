@@ -12,7 +12,13 @@ I am interested in working in the field of robotics and control design.
 
 
 
+**EDUCATION**
+University of Colorado Boulder
+Master of Science in Mechanical Engineering                                           GPA- 3.75/4.0
 
+
+Thapar Institute of Engineering and Technology
+Bachelor of Engineering in Mechanical Engineering                                     GPA- 7.5/10.0
 
 
 
