@@ -5,6 +5,18 @@ layout: default
 
 Hello, Minima!
 
+I am Faizan, a graduate student in the mechanical engineering department at University of Colorado Boulder with a focus on robotics and controls.
+I have about 2.5 years of professional work experience in control system design for automotive domain.
+I am interested in working in the field of robotics and control design.
+
+
+
+
+
+
+
+
+
 
 Welcome to markdown madness. We hope you **really** enjoy using good old text for writing.
 
