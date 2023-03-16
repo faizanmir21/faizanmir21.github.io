@@ -32,6 +32,16 @@ ___
 
 
 
+# WORK EXPERIENCE
+
+
+
+
+
+# PROJECTS
+
+
+# CONTACT
 
 
 Welcome to markdown madness. We hope you **really** enjoy using good old text for writing.
