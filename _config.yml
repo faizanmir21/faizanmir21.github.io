@@ -1,6 +1,7 @@
 ### your site title here
 
 title: Faizan Personal Website
+layout: default
 
 
 ### let's use the minima theme (see https://github.com/jekyll/minima)
