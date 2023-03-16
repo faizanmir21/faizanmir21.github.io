@@ -22,6 +22,7 @@ ___
     
     > Relevant Coursework: 
 
+<br>
 
 - ### **Thapar Institute of Engineering and Technology**
 
