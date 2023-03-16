@@ -18,12 +18,12 @@ ___
 
 - **University of Colorado Boulder**
 
-    >Master of Science in Mechanical Engineering    &nbsp;                                      GPA- 3.75/4.0
+    >Master of Science in Mechanical Engineering    &emsp;                                      GPA- 3.75/4.0
 
 
 - **Thapar Institute of Engineering and Technology**
 
-   >Bachelor of Engineering in Mechanical Engineering    &nbsp;                                 GPA- 7.5/10.0
+   >Bachelor of Engineering in Mechanical Engineering    &emsp;                                 GPA- 7.5/10.0
 
 
 
