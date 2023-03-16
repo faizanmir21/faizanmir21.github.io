@@ -13,6 +13,9 @@ I am interested in working in the field of robotics and control design.
 
 
 # EDUCATION
+
+___
+
 - **University of Colorado Boulder**
 
     >Master of Science in Mechanical Engineering                                           GPA- 3.75/4.0
