@@ -3,7 +3,7 @@ title: Welcome
 layout: default
 ---
 
-Hello, Minima!
+Hello,
 
 I am Faizan, a graduate student in the mechanical engineering department at University of Colorado Boulder with a focus on robotics and controls.
 I have about 2.5 years of professional work experience in control system design for automotive domain.
@@ -18,12 +18,12 @@ ___
 
 - **University of Colorado Boulder**
 
-    >Master of Science in Mechanical Engineering    &emsp;                                      GPA- 3.75/4.0
+    >**Master of Science in Mechanical Engineering**    &emsp;    &emsp;&emsp;&emsp;                                  GPA- 3.75/4.0
 
 
 - **Thapar Institute of Engineering and Technology**
 
-   >Bachelor of Engineering in Mechanical Engineering    &emsp;                                 GPA- 7.5/10.0
+   >**Bachelor of Engineering in Mechanical Engineering**    &emsp;    &emsp;&emsp;&emsp;                             GPA- 7.5/10.0
 
 
 
