@@ -1,5 +1,5 @@
 ---
-title: Home; Prj
+title: Home &emsp; Projects
 layout: default
 ---
 
