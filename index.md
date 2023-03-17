@@ -36,7 +36,14 @@ ___
 
 ___
 
-
+- ## Qualcomm Inc.
+   ### Motion Planning Intern
+   
+- ## DENSO
+   ### R&D Engineer
+   
+- ## Engine Control Lab, Taipei Tech
+   ### Research Assistant
 
 
 
