@@ -1,5 +1,5 @@
 ---
-title: Home, Projects
+title: Home; Prj
 layout: default
 ---
 
