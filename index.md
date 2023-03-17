@@ -20,7 +20,7 @@ ___
 
     **Master of Science** in Mechanical Engineering    &emsp;    &emsp;&emsp;&emsp;                                  GPA- 3.75/4.0
     
-    > Relevant Coursework: 
+    > Relevant Coursework: Linear Control Systems, Mechatronics and Robotics, Feedback Control, Computer Vision, Algorithmic Motion Planning, Statistical  Estimation for Dynamical Systems, Bio-Inspired Robotics, Control Systems Lab
 
 <br>
 
@@ -28,7 +28,7 @@ ___
 
    **Bachelor of Engineering** in Mechanical Engineering    &emsp;    &emsp;&emsp;&emsp;                             GPA- 7.5/10.0
    
-   > Relevant Coursework: 
+   > Relevant Coursework: IC Enginess, Automotive Engineering, Dynamics, Kinematics, Rapid Prototyping, CAD & Analysis, Mechatronics.
 
 
 
