@@ -42,11 +42,11 @@ ___
  
 - ## DENSO
 
-     ### **R&D Engineer**  &emsp;    &emsp;&emsp;&emsp;  &emsp;   &emsp;    &emsp;&emsp;&emsp;    &emsp;&emsp;&emsp; **2018 - 2020**
+     **R&D Engineer**  &emsp;    &emsp;&emsp;&emsp;  &emsp;   &emsp;    &emsp;&emsp;&emsp;    &emsp;&emsp;&emsp; **2018 - 2020**
 
 - ## Engine Control Lab, Taipei Tech
 
-     ### **Research Assistant**  &emsp;    &emsp;&emsp;&emsp;  &emsp;  &emsp;    &emsp;&emsp;&emsp;     &emsp;&emsp;&emsp; **Spring 2017**
+     **Research Assistant**  &emsp;    &emsp;&emsp;&emsp;  &emsp;  &emsp;    &emsp;&emsp;&emsp;     &emsp;&emsp;&emsp; **Spring 2017**
 
 
 
