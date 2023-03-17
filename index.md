@@ -39,11 +39,11 @@ ___
 - ## Qualcomm Inc.
 
       ### Motion Planning Intern  &emsp;    &emsp;&emsp;&emsp;  &emsp;    &emsp;&emsp;&emsp; **Summer 2022**
-   
+ 
 - ## DENSO
 
       ### R&D Engineer  &emsp;    &emsp;&emsp;&emsp;  &emsp;    &emsp;&emsp;&emsp; **2018 - 2020**
-   
+
 - ## Engine Control Lab, Taipei Tech
 
       ### Research Assistant  &emsp;    &emsp;&emsp;&emsp;  &emsp;    &emsp;&emsp;&emsp; **Spring 2017**
