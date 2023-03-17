@@ -58,7 +58,7 @@ ___
 
 # PUBLICATIONS
 
-[ Improving the Thermal Efficiency of the Homogeneous Charge Compression Ignition Engine by Using Various Combustion Patterns ](https://doi.org/10.3390/en11113002)
+[[1] Wu, Y.-Y.; Wang, J.H.; Mir, F.M. Improving the Thermal Efficiency of the Homogeneous Charge Compression Ignition Engine by Using Various Combustion Patterns. Energies 2018, 11, 3002.](https://doi.org/10.3390/en11113002)
 
 # CONTACT
 
