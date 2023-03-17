@@ -1,5 +1,5 @@
 ---
-title: Home &emsp; Projects
+title: Home 
 layout: default
 ---
 
@@ -38,7 +38,7 @@ ___
 
 - ## Qualcomm Inc.
 
-     ### **Motion Planning Intern**  &emsp;    &emsp;&emsp;&emsp;  &emsp;   &emsp;    &emsp;&emsp;&emsp;    &emsp;&emsp;&emsp; **Summer 2022**
+      ### **Motion Planning Intern**  &emsp;    &emsp;&emsp;&emsp;  &emsp;   &emsp;    &emsp;&emsp;&emsp;    &emsp;&emsp;&emsp; **Summer 2022**
  
 - ## DENSO
 
