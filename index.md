@@ -58,6 +58,8 @@ ___
 
 # PUBLICATIONS
 
+[ Improving the Thermal Efficiency of the Homogeneous Charge Compression Ignition Engine by Using Various Combustion Patterns ](https://doi.org/10.3390/en11113002)
+
 # CONTACT
 
 
