@@ -37,6 +37,7 @@ ___
 ___
 
 - ## Qualcomm Inc.
+
    ### Motion Planning Intern &emsp;    &emsp;&emsp;&emsp;  &emsp;   &emsp;    &emsp;&emsp;&emsp;    &emsp;&emsp;&emsp; **Summer 2022**
  
 - ## DENSO
