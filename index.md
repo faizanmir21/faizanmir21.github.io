@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Home
 layout: default
 ---
 
@@ -33,6 +33,10 @@ ___
 
 
 # WORK EXPERIENCE
+
+___
+
+
 
 
 
