@@ -12,6 +12,7 @@ minima:
   
 # header_pages:
 #   - about.md
+#   - Portfolio.md
 
 ### exclude the instructions / write-up in the README.md
 
