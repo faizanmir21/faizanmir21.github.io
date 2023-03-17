@@ -7,6 +7,11 @@ title: Faizan Mir
 
 theme: minima
 
+minima:
+  # date_format: "%b %-d, %Y"
+  
+# header_pages:
+#   - about.md
 
 ### exclude the instructions / write-up in the README.md
 
