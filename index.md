@@ -54,6 +54,7 @@ ___
 
 # PROJECTS
 
+[![alt_text](path_to_image)](web_page)
 
 
 # PUBLICATIONS
