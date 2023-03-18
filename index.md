@@ -54,7 +54,7 @@ ___
 
 # PROJECTS
 
-[![alt_text](./Images/ballbalancer.png)](web_page)
+[![alt_text](./Images/ballbalancer.png)](./Portfolio/Ball_balancer.md)
 
 
 # PUBLICATIONS
