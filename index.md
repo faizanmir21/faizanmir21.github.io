@@ -56,6 +56,8 @@ ___
 
 [![alt_text](./Images/ballbalancer.png)](./Portfolio/Ball_balancer.md)
 
+<img src="/Images/fsae.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
 
 # PUBLICATIONS
 
