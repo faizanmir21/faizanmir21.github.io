@@ -54,7 +54,7 @@ ___
 
 # PROJECTS
 
-[![alt_text](path_to_image)](web_page)
+[![alt_text](Images/ballbalancer.jpg)](web_page)
 
 
 # PUBLICATIONS
