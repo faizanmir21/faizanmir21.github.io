@@ -30,7 +30,7 @@ ___
    
    > __Relevant Coursework:__ IC Enginess, Automotive Engineering, Dynamics, Kinematics, Rapid Prototyping, CAD & Analysis, Mechatronics.
 
-
+<br>
 
 # WORK EXPERIENCE
 
@@ -49,10 +49,12 @@ ___
      **Research Assistant**  &emsp;    &emsp;&emsp;&emsp;  &emsp;  &emsp;    &emsp;&emsp;&emsp;     &emsp;&emsp;&emsp; **Spring 2017**
 
 
-
+<br>
 
 
 # PROJECTS
+
+___
 
 |||
 |:-:|:-:|
