@@ -56,7 +56,7 @@ ___
 
 |||
 |:-:|:-:|
-|<a href="./Portfolio/fsae"><div class='content_img'><img src="/Images/fsae.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/><div>FSAE CAR</div></div></a>|<a href="./Portfolio/Ball_balancer"><div class='content_img'><img src="/Images/ballbalancer.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/><div> Ball-Balancer</div></div></a>|
+|<a href="./Portfolio/fsae"><img src="/Images/fsae.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/> FSAE Car</a>|<ahref="./Portfolio/Ball_balancer"><img src="/Images/ballbalancer.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/>Ball-Balancer</a>|
 |<a href="./Portfolio/fsae"> <img src="/Images/aircraft.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/></a>|<a href="./Portfolio/Ball_balancer"><img src="/Images/soccer_robot.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/></a>|
 
 
