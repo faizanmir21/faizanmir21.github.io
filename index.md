@@ -18,7 +18,7 @@ ___
 
 - ### **University of Colorado Boulder**
 
-    **Master of Science** in Mechanical Engineering    &emsp;    &emsp;&emsp;&emsp;                                  GPA- 3.75/4.0
+    **Master of Science** in Mechanical Engineering   
     
     > __Relevant Coursework:__ Linear Control Systems, Mechatronics and Robotics, Feedback Control, Computer Vision, Algorithmic Motion Planning, Statistical  Estimation for Dynamical Systems, Bio-Inspired Robotics, Control Systems Lab
 
@@ -26,7 +26,7 @@ ___
 
 - ### **Thapar Institute of Engineering and Technology**
 
-   **Bachelor of Engineering** in Mechanical Engineering    &emsp;    &emsp;&emsp;&emsp;                             GPA- 7.5/10.0
+   **Bachelor of Engineering** in Mechanical Engineering    
    
    > __Relevant Coursework:__ IC Enginess, Automotive Engineering, Dynamics, Kinematics, Rapid Prototyping, CAD & Analysis, Mechatronics.
 
@@ -42,7 +42,7 @@ ___
  
 - ## DENSO
 
-     **R&D Engineer**  &emsp;    &emsp;&emsp;&emsp;  &emsp;   &emsp;    &emsp;&emsp;&emsp;    &emsp;&emsp;&emsp; **2018 - 2020**
+     **R&D Engineer**  &emsp;    &emsp;&emsp;&emsp;  &emsp;   &emsp;    &emsp;&emsp;&emsp; &emsp;&emsp;   &emsp;&emsp;&emsp; **2018 - 2020**
 
 - ## Engine Control Lab, Taipei Tech
 
