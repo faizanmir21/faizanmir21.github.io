@@ -56,8 +56,8 @@ ___
 
 |||
 |:-:|:-:|
-|<a href="./Portfolio/fsae"> <img src="/Images/fsae.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/> <div>Image 2 Text</div></a>|<a href="./Portfolio/Ball_balancer"><img src="/Images/ballbalancer.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/></a>|
-|<a href="./Portfolio/fsae"> <img src="/Images/aircraft.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/> <div>Image 2 Text</div></a>|<a href="./Portfolio/Ball_balancer"><img src="/Images/soccer_robot.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/></a>|
+|<a href="./Portfolio/fsae"> <img src="/Images/fsae.png" title="Smiley face" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/> </a>|<a href="./Portfolio/Ball_balancer"><img src="/Images/ballbalancer.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/></a>|
+|<a href="./Portfolio/fsae"> <img src="/Images/aircraft.png" title="Smiley face" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/></a>|<a href="./Portfolio/Ball_balancer"><img src="/Images/soccer_robot.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/></a>|
 
 
 
