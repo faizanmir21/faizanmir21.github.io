@@ -61,7 +61,7 @@ ___
 
 <img src="/Images/fsae.png" alt="MarineGEO circle logo" style="height: 180px; width:180px;"/>  **Intake and Exhaust Design for FSAE Car**
 <br>
-<img src="/Images/ballbalancer.png" alt="MarineGEO circle logo" style="height: 150px; width:150px;"/> [**Control Design for a ball on plate balancer**](/Protfolio/Ball_balancer.md)
+<img src="/Images/ballbalancer.png" alt="MarineGEO circle logo" style="height: 150px; width:150px;"/> [**Control Design for a ball on plate balancer**](./Protfolio/Ball_balancer.md)
 
 # PUBLICATIONS
 
