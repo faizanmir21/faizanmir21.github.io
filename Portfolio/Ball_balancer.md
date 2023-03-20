@@ -27,6 +27,6 @@ The final system model can be defined as G(s) = 5g/7s^2
 
 ![Controller](../Images/Ball_Balancer/table1.png)
 
-![Controller](../Images/Ball_Balancer/controllerComparision.png)
+![Controller](../Images/Ball_Balancer/ControllerComparision.png)
 
 
