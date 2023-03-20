@@ -18,3 +18,9 @@ A major challenge was to design an actuation mechanism for the top plate. In ord
 ![CAD](../Images/Ball_Balancer/sys_model.png)
 
 The final system model can be defined as G(s) = 5g/7s^2
+
+
+<br>
+
+### Controller Design
+
