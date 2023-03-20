@@ -23,4 +23,10 @@ The final system model can be defined as G(s) = 5g/7s^2
 <br>
 
 ### Controller Design
+5 controllers were designed and tuned and the below table show the design characteristics obtained.
+
+![Controller](../Images/Ball_Balancer/table1.png)
+
+![Controller](../Images/Ball_Balancer/controllercomparision.png)
+
 
