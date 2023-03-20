@@ -11,4 +11,4 @@ The system consists of a ball on an elevated plate. this plate can be tilted abo
 ### Mechanical Design
 A major challenge was to design an actuation mechanism for the top plate. In order to run use only one axis we designed a new mechanism which would allow us to uncouple the dynamics of the actuation mechanism and hence allow us to actuate the servo motors independently correspond- ing to its axis without affecting the other. We also simplified the dynamics by this mechanism which would keep the inclination angle of top plate equal to the actuator rotation.The plate has to rotate about its two planar body axes to be able to balance the ball. A special pivot mount was designed which would allow the rotation of top plate in x and y axis
 
-![CAD](./Images/Ball_Balancer/cad.png)
+![CAD](../Images/Ball_Balancer/cad.png)
