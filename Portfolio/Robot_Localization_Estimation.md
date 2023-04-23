@@ -26,10 +26,10 @@ The measurement model for the system is given by a combination of noisy ranges a
 ## Linearization
 The continuous-time nonlinear dynamics and measurement models can be linearized by first assuming that the system stays near a nominal trajectory x*(t) for some nominal control input u*
 ![Kalman Filter](../Images/Estimation/estlin1.png)
-![Kalman Filter](../Images/Estimation/estlin2.png)
+<img src="/Images/Estimation/estlin5.png" style="height: 300px; width:300px;"/>
 
 Using Taylor Series expansion near x∗, the CT linearized system is approximated as:
-<img src="/Images/Estimation/estlin3.png" style="height: 300px; width:500px;"/>
+![Kalman Filter](../Images/Estimation/estlin3.png)
 ![Kalman Filter](../Images/Estimation/estlin4.png)
 <br>
 <img src="/Images/Estimation/estlin5.png" style="height: 200px; width:400px;"/>
