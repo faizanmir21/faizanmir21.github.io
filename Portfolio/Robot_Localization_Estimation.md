@@ -34,7 +34,7 @@ Using Taylor Series expansion near x∗, the CT linearized system is approximate
 <br>
 <img src="/Images/Estimation/estlin5.png" style="height: 200px; width:400px;"/>
 
-## KF Block Diagram: Full “Predictor-Corrector” Cycle
+## Kalman Filter Block Diagram: Full “Predictor-Corrector” Cycle
 ![Kalman Filter](../Images/Estimation/estfilter1.png)
 
 ### KF State Estimate Errors
