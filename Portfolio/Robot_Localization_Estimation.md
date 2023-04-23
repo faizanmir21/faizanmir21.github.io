@@ -31,4 +31,5 @@ The continuous-time nonlinear dynamics and measurement models can be linearized 
 Using Taylor Series expansion near x∗, the CT linearized system is approximated as:
 ![Kalman Filter](../Images/Estimation/estlin3.png)
 ![Kalman Filter](../Images/Estimation/estlin4.png)
+<br>
 <img src="/Images/Estimation/estlin5.png" style="height: 300px; width:500px;"/>
