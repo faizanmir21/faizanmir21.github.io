@@ -5,7 +5,7 @@ layout: default
 # Cooperative Air-Ground Robot Localization
 
 
-![Kalman Filter](../Images/Estimation/State_Estimation.png)
+![Kalman Filter](../Images/State_Estimation.png)
 
 The UGV’s motion is modeled kinematically here as a simple 4-wheeled steerable Dubin’s car 
 ![Kalman Filter](../Images/Estimation/estdyn1.png)
