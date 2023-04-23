@@ -43,3 +43,11 @@ Using Taylor Series expansion near x∗, the CT linearized system is approximate
 ### KF State Estimates
 ![Kalman Filter](../Images/Estimation/estresult2.png)
 
+## Statistical test for KF Performance
+To check if KF’s state errors/measurement residuals make sense for given system + measurement + noise models
+![Kalman Filter](../Images/Estimation/estperform1.png)
+
+![Kalman Filter](../Images/Estimation/estperform2.png)
+![Kalman Filter](../Images/Estimation/estperform3.png)
+![Kalman Filter](../Images/Estimation/estperform4.png)
+![Kalman Filter](../Images/Estimation/estperform5.png)
